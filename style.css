@@ -1,0 +1,9 @@
+body {
+  background-color: cadetblue;
+  color: white;
+  font-family: monospace;
+}
+
+.dark {
+  background-color: #274445;
+}
